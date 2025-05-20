@@ -10,7 +10,7 @@ const cn = {
     Unauthorized: isApp
       ? `😆 人美心善的小余同学，你Nature会写我共一的对吧？:`
       : `😆 人美心善的小余同学，你Nature会写我共一的对吧？:
-       \ 2️⃣点击[这里](/#/auth)输入回答 🔑
+       \ 2️⃣点击[这里](/#/auth)输入回答  yes/no 🔑
        `,
   },
   Auth: {
